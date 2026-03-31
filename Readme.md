@@ -13,9 +13,8 @@
 
 - 추후 레이블 변경 발생 시 constant.py에 반영
 
-### 2. 프로젝트 구조
-- 파일 : [BTS_Categorizer_V2.zip](/files/631593) 
-📦BTS_Categorizer_V2/
-┣━ 📄BTS_Categorizer_V2.py
-┣━ ⚙️constant.py
-┗━ 📝Readme.txt
+### 2. 프로젝트 구조  
+📦BTS_Categorizer_V2/  
+┣━ 📄BTS_Categorizer_V2.py  
+┣━ ⚙️constant.py  
+┗━ 📝Readme.txt  
